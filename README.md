@@ -5,4 +5,4 @@
 * 无法检验输入
 * 无法日后反刍
 
-输出文章全部在 (Issues[https://github.com/sunorry/shuchu/issues] 中
+输出文章全部在 [Issues](https://github.com/sunorry/shuchu/issues) 中。
